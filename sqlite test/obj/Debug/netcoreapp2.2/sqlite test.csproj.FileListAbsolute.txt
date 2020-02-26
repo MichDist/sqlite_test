@@ -1,0 +1,8 @@
+C:\Users\Michael Distler\source\repos\sqlite test\sqlite test\bin\Debug\netcoreapp2.2\sqlite test.deps.json
+C:\Users\Michael Distler\source\repos\sqlite test\sqlite test\bin\Debug\netcoreapp2.2\sqlite test.runtimeconfig.json
+C:\Users\Michael Distler\source\repos\sqlite test\sqlite test\bin\Debug\netcoreapp2.2\sqlite test.runtimeconfig.dev.json
+C:\Users\Michael Distler\source\repos\sqlite test\sqlite test\bin\Debug\netcoreapp2.2\sqlite test.dll
+C:\Users\Michael Distler\source\repos\sqlite test\sqlite test\obj\Debug\netcoreapp2.2\sqlite test.csprojAssemblyReference.cache
+C:\Users\Michael Distler\source\repos\sqlite test\sqlite test\obj\Debug\netcoreapp2.2\sqlite test.csproj.CoreCompileInputs.cache
+C:\Users\Michael Distler\source\repos\sqlite test\sqlite test\obj\Debug\netcoreapp2.2\sqlite test.AssemblyInfoInputs.cache
+C:\Users\Michael Distler\source\repos\sqlite test\sqlite test\obj\Debug\netcoreapp2.2\sqlite test.AssemblyInfo.cs
